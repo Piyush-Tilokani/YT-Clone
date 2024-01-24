@@ -68,7 +68,7 @@ const Navbar = () => {
                 {openNav && <div className="profileBtns">
                     <div className="avatarInfo profileTab">
                         <img src={Avatar} alt="Your Avatar" title='Avatar' />
-                        <p>Teenage Programmer</p>
+                        <p>Piyush Tilokani</p>
                     </div>
                     <div className="horizontalLine"></div>
                     <div className="profileTabs">
